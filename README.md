@@ -1,26 +1,38 @@
-# 🍅 Pomodoro Timer Lite Support
+# Pomodoro Timer Lite - Support
 
-Welcome! This is the official support page for the **Pomodoro Timer Lite** macOS app.
+This is the support repository for **Pomodoro Timer Lite**, a lightweight macOS menu bar Pomodoro timer.
 
-## 💬 Need Help?
+## 📥 Download
 
-If you have any questions, feature requests, or bug reports, please [open a new issue](https://github.com/happylaodu/pomodoro-support/issues).
+[![Download on App Store](https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83)](https://apps.apple.com/cn/app/pomodoro-timer-lite/id6748662476)
 
-We appreciate your feedback!
+## 💻 Source Code
+
+The source code is open source and available at:
+
+**https://github.com/happylaodu/PomodoroTimer**
+
+## 🐛 Report Issues
+
+Please report bugs and feature requests in the main repository:
+
+**https://github.com/happylaodu/PomodoroTimer/issues**
+
+## 📖 Documentation
+
+- [README](https://github.com/happylaodu/PomodoroTimer#readme)
+- [Releases](https://github.com/happylaodu/PomodoroTimer/releases)
+- [License (MIT)](https://github.com/happylaodu/PomodoroTimer/blob/main/LICENSE)
+
+## 🙏 Support
+
+If you find this app helpful:
+- ⭐ Star the [main repository](https://github.com/happylaodu/PomodoroTimer)
+- 📝 Rate on the [App Store](https://apps.apple.com/cn/app/pomodoro-timer-lite/id6748662476)
+- 🐦 Share with friends
 
 ---
 
-## 🔐 Privacy Policy
+**Author**: [Steven Du](https://github.com/happylaodu)
 
-**Pomodoro Timer Lite** does not collect or store any personal data.  
-All activity remains fully on your device, and no information is sent to external servers.
-
----
-
-## 📖 Frequently Asked Questions
-
-**Q: Can I donate to support development?**  
-A: We may add a donation option in future versions — stay tuned!
-
-**Q: Does the app sync across devices?**  
-A: Currently no, the app is fully local and simple by design.
+**License**: MIT
